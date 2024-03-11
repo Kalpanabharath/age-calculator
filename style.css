@@ -78,6 +78,7 @@ button{
 }
 @media screen and (max-width:371px) {
     .container{
+        background-size: cover;
         background-position: right;
     }
     
