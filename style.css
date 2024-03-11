@@ -26,6 +26,7 @@ input{
    cursor: pointer;
    background-color: aquamarine;
    color: black;
+   font-size: 1rem;
 }
 .content{
     display: flex;
